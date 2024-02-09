@@ -1,5 +1,4 @@
 .profile {
-  position: relative;
   width: 300px;
   text-align: center;
   margin-top: 1rem;
@@ -14,6 +13,13 @@
   width: 200px;
   height: 200px;
   border-radius: 100%;
+}
+
+.avatar {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  margin: auto;
 }
 
 .new {
