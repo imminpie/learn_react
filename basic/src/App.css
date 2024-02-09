@@ -1,0 +1,16 @@
+.profile {
+  width: 300px;
+  text-align: center;
+  margin-top: 1rem;
+  padding: 1rem;
+  background-color: #ebebeb;
+  box-shadow: 7px 5px 23px -9px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 7px 5px 23px -9px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 7px 5px 23px -9px rgba(0, 0, 0, 0.75);
+}
+
+.photo {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+}
